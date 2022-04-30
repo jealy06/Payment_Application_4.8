@@ -1,0 +1,11 @@
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\Payment_Application.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\Payment_Application.deps.json
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\Payment_Application.pdb
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\IDTechSDK.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\Microsoft.Build.Conversion.v4.0 (1).dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\NLog.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\PaymentAppCOM.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\PaymentEngine.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\xCore.dll
+C:\Users\jarre\OneDrive\Desktop\Csharp\Payment_Application\bin\Debug\net6.0\publish\xCore.Forms.dll

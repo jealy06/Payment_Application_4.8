@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<LangVersion>preview</LangVersion>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Net.Http" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.3.242703">
+	  <PrivateAssets>all</PrivateAssets>
+	</PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IDTechSDK">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\IDTechSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PaymentAppCOM">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\PaymentAppCOM.dll</HintPath>
+    </Reference>
+    <Reference Include="PaymentEngine">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\PaymentEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="PaymentEngine_Test">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\PaymentEngine_Test.exe</HintPath>
+    </Reference>
+    <Reference Include="xCore">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\xCore.dll</HintPath>
+    </Reference>
+    <Reference Include="xCore.Forms">
+      <HintPath>..\..\Payment Processing\CardKnox\SDK48\xCore.Forms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Update="System">
+      <CopyLocal>True</CopyLocal>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Update="System.Core">
+      <CopyLocal>True</CopyLocal>
+    </Reference>
+  </ItemGroup>
+
+</Project>
